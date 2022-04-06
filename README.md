@@ -10,7 +10,7 @@ ANCalciumImagingDeepEthogram.m: Plotting figure panels 7H, I
 
 ChemogeneticHSSilencing.m: Plotting figure panels 1E, F
 
-DefineLegPhase.m: Define leg phases (0 – 2pi) from leg joint positions extracted by DeepLabCut This code also plots Figure panels 3E, 8C.
+DefineLegPhase.m: Define leg phases (0 – 2pi) from leg joint positions extracted by DeepLabCut. This code also plots Figure panels 3E, 8C.
 
 ForwVelDependentVmSlope.m: Plotting figure panels 1C, 8G
 
