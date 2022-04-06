@@ -2,7 +2,7 @@
 
 These are MATLAB analysis codes for an article titled: Walking strides direct rapid and flexible recruitment of visual circuits for course control in Drosophila.
 
-AnalysisOptRuns.m: Plotting most of the figure panels using opt-runs protocol (Figures 3F, 4F, 5, 8A, B, D) The same analysis can be applied to the spontaneous walking dataset (Figures 3D, 4B, C, 6A–C, 7C, D)
+AnalysisOptRuns.m: Plotting most of the figure panels using opt-runs protocol (Figures 3F, 4F, 5, 8A, B, D). The same analysis can be applied to the spontaneous walking dataset (Figures 3D, 4B, C, 6A–C, 7C, D)
 
 ANCalciumImaging.m: Plotting figure panels 7F, G
 
